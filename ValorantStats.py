@@ -5,6 +5,7 @@ from discord.utils import get
 
 from dhooks import Webhook, Embed
 
+
 hook = Webhook(url='https://discord.com/api/webhooks/764941548886294578/GpVKEL4goKnl6x1wytDAOrsInUpj_cWhTv9iSY83SzwArgv_nNqDVf7UG3bMWhQy9kks')
 
 
@@ -107,4 +108,4 @@ async def stats(ctx):
 
 
 
-client.run('NzY0MzMwNTM0NTU2OTI1OTcz.X4EsSA.hE80o32-KnhM8X1S47SIXO0z_TA')
+client.run(#insert token here)
