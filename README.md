@@ -1,0 +1,2 @@
+# ValorantStats
+This product will be utilizing discord as a Discord Bot. It will fetch the user's statistics and match history and display it in an easy-to-read form factor. Users will also be able to view trends and diagnose which weapons they need to improve on as well as maps. Plans to be able to compare these statistics with other willing users are in development. The API that will be used is the VAL-MATCH-V1. 
